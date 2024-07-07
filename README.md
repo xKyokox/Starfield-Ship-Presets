@@ -2,7 +2,7 @@
 Plugin for [starfield script extender](https://github.com/ianpatt/sfse).
 
 This plugin will allow players to save and load ship presets in Starfield's Ship builder.
-Additionally, these presets can be saved with the community, such as Nexus Mods.
+Additionally, these presets can be shared with the community, such as Nexus Mods.
 
 ## ⚙ Requirements
 
