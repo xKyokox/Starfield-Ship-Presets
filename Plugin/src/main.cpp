@@ -33,7 +33,7 @@ DLLEXPORT bool SFSEAPI SFSEPlugin_Load(const SFSE::LoadInterface* a_sfse)
 
 	SFSE::Init(a_sfse, false);
 	DKUtil::Logger::Init(Plugin::NAME, std::to_string(Plugin::Version));
-	INFO("{} v{} loaded", Plugin::NAME, Plugin::Version);
+	INFO("{} v{} by Kyoko loaded", Plugin::NAME, Plugin::Version);
 
 	// do stuff
 	// this allocates 1024 bytes for development builds, you can
